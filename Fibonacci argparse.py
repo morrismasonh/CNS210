@@ -1,3 +1,4 @@
+#! c:\Python37\python.exe
 import os
 import argparse
 
